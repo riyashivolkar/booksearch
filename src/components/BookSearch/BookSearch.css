@@ -1,0 +1,33 @@
+.search-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .search-page input {
+    padding: 10px;
+    margin: 20px 0;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .navigation-button {
+    margin: 20px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .navigation-button:hover {
+    background-color: #218838;
+  }
+  
